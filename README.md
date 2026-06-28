@@ -151,7 +151,7 @@
     <div class="panel">
         <div class="header">
             <div>
-                <h1>WU <span>AUDIO</span> DLMS</h1>
+                <h1>WAHYU <span>AUDIO</span> DLMS</h1>
                 <span class="header-brand">WAHYU AUDIO PROJECT - COMPACT V8</span>
             </div>
             <div class="preset-panel">
